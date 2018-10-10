@@ -29,6 +29,6 @@ int main() {
 	cout << "Your Total= " << total << endl;
 	cout << "Your Average= " << avg << endl;
 
-	system("pause"); //to pause the screen
+	system("pause"); //to pause the screen //
 	return 0;
 }
